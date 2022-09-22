@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <RouterLink to="/definicao">Definição</RouterLink>
+    <RouterLink to="/">Definição</RouterLink>
     <RouterLink to="/importancia">Importância</RouterLink>
     <RouterLink to="/gerenciadores">Gerenciadores</RouterLink>
     <RouterLink to="/modelos">Modelos</RouterLink>
